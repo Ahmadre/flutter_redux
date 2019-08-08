@@ -1,5 +1,7 @@
 # flutter_redux
 
+## ONLY FOR FLUTTER WEB !
+
 [![Build Status](https://travis-ci.org/brianegan/flutter_redux.svg?branch=master)](https://travis-ci.org/brianegan/flutter_redux)  [![codecov](https://codecov.io/gh/brianegan/flutter_redux/branch/master/graph/badge.svg)](https://codecov.io/gh/brianegan/flutter_redux)
 
 A set of utilities that allow you to easily consume a [Redux](https://pub.dartlang.org/packages/redux) Store to build Flutter Widgets.
